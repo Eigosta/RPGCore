@@ -1,0 +1,2 @@
+# RPGCore
+RPGCore Documentation
